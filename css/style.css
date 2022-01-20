@@ -29,7 +29,7 @@ a {
 .myBtt {
     display: none;
     position: fixed;
-    bottom: 5px;
+    bottom: 25px;
     right: 5px;
     z-index: 1001;
     font-size: 18px;
